@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mosher23.github.io/LabelFolio/sitemap.xml
